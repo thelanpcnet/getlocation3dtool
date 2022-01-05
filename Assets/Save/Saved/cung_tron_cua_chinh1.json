@@ -1,0 +1,20 @@
+{
+    "type": "polygon",
+    "rings": [
+
+    ],
+    "symbol": {
+        "type": "simple-fill",
+        "color": [
+            255, 247, 234
+        ],
+        "outline": {
+            "color": [
+                255,
+                247,
+                234
+            ],
+            "width": 2
+        }
+    }
+}

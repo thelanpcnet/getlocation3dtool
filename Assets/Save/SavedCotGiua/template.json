@@ -1,0 +1,39 @@
+{
+    "type": "polygon",
+    "rings": [
+
+    ],
+    "symbol": {
+        "type": "simple-fill",
+        "color": [
+            255, 247, 234
+        ],
+        "outline": {
+            "color": [
+                255,
+                247,
+                234
+            ],
+            "width": 2
+        }
+    }
+}
+"tamtuongtraitruoc_vVoxel_1": {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                    ]
+                ]
+            },
+            "properties": {
+                "height": 2.66350244723554,
+                "color": "#FFF7EA"
+            }
+        }
+    ]
+}
